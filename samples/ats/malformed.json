@@ -1,0 +1,1 @@
+{ "applicant": { "fullName": "Broken Record", "primaryEmail": "oops@", }  // trailing comma + comment = invalid JSON

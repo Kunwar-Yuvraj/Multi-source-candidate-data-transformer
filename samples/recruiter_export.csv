@@ -1,0 +1,5 @@
+name,email,phone,current_company,title,location,linkedin,github,skills
+Jane Doe,jane.doe@example.com,(415) 555-0132,Acme Corp,Senior Software Engineer,"San Francisco, CA, USA",https://linkedin.com/in/janedoe,https://github.com/janedoe,"Python, JS, React, AWS"
+John Smith,john.smith@example.com,+44 20 7946 0958,Globex,Data Scientist,"London, UK",https://linkedin.com/in/johnsmith,,"Python, Machine Learning, SQL"
+JANE DOE,jane.doe@example.com,(415) 555-0132,Acme Corporation,Staff Software Engineer,"San Francisco, CA",,,"python, react.js, kubernetes"
+,not-an-email,call-me,,,,,,bogus

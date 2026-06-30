@@ -1,0 +1,75 @@
+[
+  {
+    "full_name": "Jane Doe",
+    "primary_email": "jane.doe@example.com",
+    "phone": "+14155550132",
+    "country": "US",
+    "linkedin": "https://linkedin.com/in/janedoe",
+    "skills": [
+      "React",
+      "AWS",
+      "JavaScript",
+      "Python",
+      "Kubernetes",
+      "Docker",
+      "Node.js",
+      "PostgreSQL",
+      "TypeScript"
+    ],
+    "current_title": "Senior Software Engineer",
+    "overall_confidence": 0.8197,
+    "confidence": {
+      "full_name": 0.99,
+      "primary_email": 0.75,
+      "phone": 0.99,
+      "country": 0.9567,
+      "skills": 0.78,
+      "current_title": 0.705
+    }
+  },
+  {
+    "full_name": "Priya Sharma",
+    "primary_email": "priya.sharma@example.in",
+    "phone": "+919876543210",
+    "country": "IN",
+    "linkedin": "https://linkedin.com/in/priyasharma",
+    "skills": [
+      "Deep Learning",
+      "PyTorch",
+      "Python",
+      "TensorFlow"
+    ],
+    "current_title": "Machine Learning Engineer",
+    "overall_confidence": 0.51,
+    "confidence": {
+      "full_name": 0.51,
+      "primary_email": 0.51,
+      "phone": 0.51,
+      "country": 0.51,
+      "skills": 0.51,
+      "current_title": 0.51
+    }
+  },
+  {
+    "full_name": "John Smith",
+    "primary_email": "john.smith@example.com",
+    "phone": "+442079460958",
+    "country": "GB",
+    "linkedin": "https://linkedin.com/in/johnsmith",
+    "skills": [
+      "Machine Learning",
+      "Python",
+      "SQL"
+    ],
+    "current_title": "Data Scientist",
+    "overall_confidence": 0.9,
+    "confidence": {
+      "full_name": 0.9,
+      "primary_email": 0.9,
+      "phone": 0.9,
+      "country": 0.9,
+      "skills": 0.9,
+      "current_title": 0.9
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "applicant": {
+      "fullName": "Jane A. Doe",
+      "primaryEmail": "jane.doe@example.com",
+      "secondaryEmail": "jdoe@personal.example",
+      "mobileNumber": "+1 415-555-0132",
+      "location": "San Francisco, California, US",
+      "headline": "Senior Software Engineer building reliable data systems",
+      "yearsOfExperience": 8
+    },
+    "social": {
+      "linkedinUrl": "https://www.linkedin.com/in/janedoe",
+      "githubUrl": "https://github.com/janedoe"
+    },
+    "competencies": ["JavaScript", "React.js", "Node.js", "Docker", "PostgreSQL"],
+    "employment": [
+      { "org": "Acme Corp", "designation": "Senior Software Engineer", "from": "Mar 2021", "to": "present" },
+      { "org": "Initech", "designation": "Software Engineer", "from": "2018", "to": "2021" }
+    ],
+    "schools": [
+      { "name": "UC Berkeley", "qualification": "B.S.", "major": "Computer Science", "gradYear": 2016 }
+    ]
+  },
+  {
+    "applicant": {
+      "fullName": "Priya Sharma",
+      "primaryEmail": "priya.sharma@example.in",
+      "mobileNumber": "+91 98765 43210",
+      "location": "Bengaluru, India",
+      "headline": "ML Engineer",
+      "totalExperience": 5
+    },
+    "social": { "linkedinUrl": "https://linkedin.com/in/priyasharma" },
+    "competencies": ["Python", "PyTorch", "TensorFlow", "Deep Learning"],
+    "employment": [
+      { "org": "Flipkart", "designation": "Machine Learning Engineer", "from": "Jul 2020", "to": "present" }
+    ],
+    "schools": [
+      { "name": "IIT Bombay", "qualification": "M.Tech", "major": "Data Science", "gradYear": 2019 }
+    ]
+  }
+]
